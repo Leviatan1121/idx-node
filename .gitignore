@@ -1,3 +1,6 @@
+# Package lock
+package-*
+
 # Logs
 logs
 *.log
